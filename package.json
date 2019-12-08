@@ -1,8 +1,8 @@
 {
   "name": "react-native-queryableio",
-  "version": "1.0.1",
+  "version": "1.0.8",
   "description": "",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "deploy": "npm publish"
   },

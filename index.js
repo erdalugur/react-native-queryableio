@@ -1,5 +1,4 @@
-import { runPublicProc, configure } from "./lib";
-
+import { configure, runPublicProc } from 'react-native-queryableio'
 configure({
     endpoint: "http://apivm.asicodes.com/query"
 })
