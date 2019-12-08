@@ -1,0 +1,16 @@
+{
+  "name": "react-native-queryableio",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "npm publish"
+  },
+  "keywords": [],
+  "author": "Uğur Erdal",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.0.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz"
+  }
+}
